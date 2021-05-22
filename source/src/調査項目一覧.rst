@@ -4,10 +4,10 @@
 
 調査票に記載されている各設問は、内容ごとに下記の18の大問区分に大別されています。
 各設問の区分については、以下の簡易確認用ファイル（付門および類似のする項目がある場合は省略）をご確認ください。
-`調査項目一覧(確認用).xlsx　<>`_
+`問題一覧(確認用).xlsx <https://github.com/RyoMikami/JHPS_CPS/blob/master/source/Data/%E8%AA%BF%E6%9F%BB%E9%A0%85%E7%9B%AE%E4%B8%80%E8%A6%A7(%E7%A2%BA%E8%AA%8D%E7%94%A8).xlsx>`_
 
 収録年度、変数名など設問のより詳しい情報は以下のファイルを参照。
-`調査年度一覧.xlsx　<>`_
+`調査年度一覧.xlsx <https://github.com/RyoMikami/JHPS_CPS/blob/master/source/Data/%E8%AA%BF%E6%9F%BB%E5%B9%B4%E5%BA%A6%E4%B8%80%E8%A6%A7.xlsx>`_
 
 
 .. toctree::

@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'GEOE'
+project = 'JHPS_CPS'
 copyright = '2021, Ryo Mikami'
 author = 'Ryo Mikami'
 

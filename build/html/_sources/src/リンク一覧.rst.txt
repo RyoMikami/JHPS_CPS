@@ -1,0 +1,10 @@
+リンク先一覧
+=====================
+
+調査の概要や各年度の調査表については下記のリンクを参照。
+
+* `調査に概要 <https://www.iser.osaka-u.ac.jp/survey_data/panelsummary.html>`_ 
+
+* `個票データの利用について <https://www.iser.osaka-u.ac.jp/survey_data/application.html>`_ 
+
+* `調査表 <https://www.iser.osaka-u.ac.jp/survey_data/survey.html>`_ 
