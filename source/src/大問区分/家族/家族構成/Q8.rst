@@ -1,0 +1,86 @@
+====================================================================================================
+問題番号 8
+====================================================================================================
+
+
+
+.. rst-class:: question
+問題文
+==================
+
+
+配偶者の両親の存命・年齢
+
+父の健在 or 死亡
+
+
+
+
+
+父の年齢
+
+
+
+
+
+父の死亡時の年齢
+
+
+
+
+
+母の健在 or 死亡
+
+
+
+
+
+母の年齢
+
+
+
+
+
+母の死亡時の年齢
+
+
+
+
+
+.. rst-class:: target
+質問対象者
+==================
+
+配偶者の父親 ,配偶者の母親
+
+
+
+
+.. rst-class:: question
+データ数
+==================
+
+
+6
+
+
+
+
+.. rst-class:: value_name
+変数名
+==================
+
+.. csv-table::
+   :header: 2003年 ,2004年 ,2005年 ,2006年 ,2007年 ,2008年 ,2009年 ,2010年 ,2011年 ,2012年 ,2013年 ,2016年 ,2017年 ,2018年 ,2020年
+
+     -,  -,  -,   fq23pf,   fq26pf,   fq27pf,   fq33_1pf,   fq26_1pf,   qb31_1pf,   sqb5_4pf,   sqb5_4pf,   sqb54_4pf,   sqb62_4pf,   sqb58_4pf,   SQB54_4pf,
+
+     -,  -,  -,  fq23pfl,  fq26pfl,  fq27pfl,  fq33_1pfl,  fq26_1pfl,  qb31_1pfl,  sqb5_4pfl,  sqb5_4pfl,  sqb54_4pfl,  sqb62_4pfl,  sqb58_4pfl,  SQB54_4pfl,
+
+     -,  -,  -,  fq23pfd,  fq26pfd,  fq27pfd,  fq33_1pfd,  fq26_1pfd,  qb31_1pfd,  sqb5_4pfd,  sqb5_4pfd,  sqb54_4pfd,  sqb62_4pfd,  sqb58_4pfd,  SQB54_4pfd,
+
+     -,  -,  -,   fq23pm,   fq26pm,   fq27pm,   fq33_1pm,   fq26_1pm,   qb31_1pm,   sqb5_4pm,   sqb5_4pm,   sqb54_4pm,   sqb62_4pm,   sqb58_4pm,   SQB54_4pm,
+
+     -,  -,  -,  fq23pml,  fq26pml,  fq27pml,  fq33_1pml,  fq26_1pml,  qb31_1pml,  sqb5_4pml,  sqb5_4pml,  sqb54_4pml,  sqb62_4pml,  sqb58_4pml,  SQB54_4pml,
+
+     -,  -,  -,  fq23pmd,  fq26pmd,  fq27pmd,  fq33_1pmd,  fq26_1pmd,  qb31_1pmd,  sqb5_4pmd,  sqb5_4pmd,  sqb54_4pmd,  sqb62_4pmd,  sqb58_4pmd,  SQB54_4pmd,
