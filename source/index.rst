@@ -11,9 +11,9 @@ JHPS_CPS
 
 
 調査項目一覧から、
-データファイル/調査年度一覧 のリンク先にある調査年度一覧.xlsに掲載されている内容について確認できます。
+データファイル/調査年度一覧 のリンク先にある :download:`調査年度一覧.xls <src/Data/調査年度一覧.xlsx>`  に掲載されている内容について確認できます。
 
-
+ 
 
 調査の概要や各年度の調査表については下記のリンクを参照。
 
@@ -23,6 +23,11 @@ JHPS_CPS
 
 * `調査表 <https://www.iser.osaka-u.ac.jp/survey_data/survey.html>`_ 
 
+
+
+.. csv-table::
+   :file: tmp.csv
+   :header-rows: 1
 
 .. toctree::
    :maxdepth: 2
